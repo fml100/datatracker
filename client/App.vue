@@ -1,4 +1,4 @@
-<template lang="pug">
+9<template lang="pug">
 n-theme
   n-message-provider
     .app-error(v-if='siteStore.criticalError')
